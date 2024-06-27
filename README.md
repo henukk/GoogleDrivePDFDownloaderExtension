@@ -14,7 +14,7 @@ Google Drive PDF Downloader is a browser extension that enables users to downloa
 
 1. Clone the repository or download the ZIP file.
    ```bash
-   git clone https://github.com/yourusername/google-drive-pdf-downloader.git
+   git clone https://github.com/henukk/GoogleDrivePDFDownloaderExtension.git
    ```
 2. Extract the contents of the ZIP file if you downloaded it.
 3. Open your browser and navigate to the Extensions page.
